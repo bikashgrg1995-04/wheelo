@@ -23,4 +23,9 @@ class AppColors {
     end: Alignment.bottomRight,
     colors: [navyDark, navy],
   );
+
+  // Light theme
+  static const Color background = Color(0xFFF8FAFC);
+  static const Color textDark = Color(0xFF0F172A);
+  static const Color lightBorder = Color(0xFFE2E8F0);
 }
